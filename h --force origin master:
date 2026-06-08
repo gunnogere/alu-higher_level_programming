@@ -1,0 +1,133 @@
+[33mcommit b8881026125fcf82f66877fbd8cde598e3f4832b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Josh <joshua@nzima.io>
+Commit: Josh <joshua@nzima.io>
+
+    0. First constant, first print
+
+[33mcommit 22ec7fc69a2aaba63b124f93e1a3fe04ba3a0777[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    a  program that imports the variable a from the file variable_load_5.py and prints its value.
+
+[33mcommit b28aebd6a03966a5f037cf1516a263f49072af3f[m
+Author: gunnogere <10761234+gunnogere@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Create hidden_4.pyc
+
+[33mcommit d3ff4a12deb3448b7c991aa64bf805eebdc6602c[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+     a program that prints the result of the addition of all arguments
+
+[33mcommit 6ae3236083ca1c414cd2f7958563c420c43b5b3f[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+     a program that prints the number of and the list of its arguments.
+
+[33mcommit 27b0fef6c40b2e5e4a15432bd4e15ffee9cbc599[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    A  program that imports functions from the file calculator_1.py, does some Maths, and prints the result.
+
+[33mcommit c009cdffc618f262575f57ed2c8ab5cfa1c2666e[m
+Merge: 7d899bb 98286b4
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    Merge branch 'master' of github.com:gunnogere/alu-higher_level_programming
+
+[33mcommit 7d899bbd88054012f0afe165684f2c963f439183[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    fix - Your code should not be executed when imported
+
+[33mcommit 98286b44872e941d44037970b2ba35824733db2d[m
+Author: gunnogere <10761234+gunnogere@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Create README.md
+
+[33mcommit e776393b424ca9faa26192aadfe525ff3c6982b3[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    fix module missing error
+
+[33mcommit c933ae40c325e17c4a31b25a01faf0abcac293e1[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
+
+[33mcommit 27663beb87ca8cf3193f8a9cc03297fde9b58e89[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    Fix q8: You can only use no more than 2 print functions with string format
+
+[33mcommit f34d87be992fdb57fe26fad11c7b731b55778dc3[m
+Merge: c9ae0a0 59ebcbf
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    Merge branch 'master' of github.com:gunnogere/alu-higher_level_programming
+
+[33mcommit c9ae0a060f50f66f702f037113bc28236c698ed7[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    add files for qn 2 to 13
+
+[33mcommit 59ebcbfde285a331301626ea5a4ec44080b500ec[m
+Author: joshmulongo <j.mulongo@alustudent.com>
+Commit: GitHub <noreply@github.com>
+
+    Create README.md
+
+[33mcommit 7ac700164a23865328b21fe4fb64e14f661b3d7b[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    slicer updater q.8
+
+[33mcommit d631042a4895c003011d7a9988171ee0e32e499a[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    update slices for qtn. 8
+
+[33mcommit ae47f0aeda30a0150141afe49be55d5ad1a5a862[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    fix indent with 8, and 9 tasks
+
+[33mcommit 808f8cd5e593b5c665e420a3425a8ec06288c1f1[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    push query 2-9
+
+[33mcommit 9683a946474526c665629be7c1e8ac38ef6a1c22[m
+Author: joshmulongo <j.mulongo@alustudent.com>
+Commit: GitHub <noreply@github.com>
+
+    Create README.md
+
+[33mcommit eee0febabb711ed115f2b1808e788f60f2fba1a7[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    Clean up Dir hireachy
+
+[33mcommit 178f37cbb7f022049f0b552320cdb0330f451de3[m
+Author: gunnogere@gmail.com <j.mulongo@alustudent.com>
+Commit: gunnogere@gmail.com <j.mulongo@alustudent.com>
+
+    a Shell script that runs a Python script. The Python file name will be saved in the environment variable strings.py
